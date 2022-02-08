@@ -1,0 +1,39 @@
+html {
+  background-color: #e3ffe3;
+}
+
+.country {
+  background-color: #ccffcc;
+  padding: 25px;
+  margin: 30px 25px 0 25px;
+}
+
+button {
+  background-color: #8fff8f;
+  margin: 25px;
+  padding: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.button .sorting {
+  float: right;
+}
+footer {
+  background-color: #8fff8f;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+.title {
+  background-color: #8e8c89;
+  width: 430px;
+  padding: 5px 0 0 0;
+}
+.cnt {
+  width: max-content;
+  padding: 3px 9px 3px 9px;
+  background-color: #8e8c89;
+}
